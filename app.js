@@ -1,9 +1,7 @@
-alert('Boas
-    vindas ao numero secreto');
+alert('Boas vindas ao numero secreto');
     
     
-    let
-    numeroSecreto = 6;
+    let numeroSecreto = 6;
     
     
     console.log(numeroSecreto);
@@ -20,8 +18,7 @@ alert('Boas
      
     
     
-    //enquanto
-    chute não for igual ao numero Secreto
+    //enquantochute não for igual ao numero Secreto
     
     
     while
